@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xqcj.caocaosong.cn/app/Icon_business@2x.png</string>
+					<string>http://xqcj.caocaosong.cn/app/Icon_girl@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xqcj.caocaosong.cn/app/Icon_business.png</string>
+					<string>http://xqcj.caocaosong.cn/app/Icon_girl.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
